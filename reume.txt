@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Gowtham Prasath R",
+        "email": "gowthamprasath33@gmail.com",
+    "phone": "89855555555",
+    "degree": "B.E civil",
+    "website": "www",
+    "summary": "Full stack course learner in guvi",
+    "location": {
+      "address": "Your street address or mailing address",
+      "postalCode": "585636568 ",
+      "city": "Your city",
+      "countryCode": "IND",
+      "region": "TamilNadu"
+    },
+   
+  "work": [
+    {
+      "company": "apex infra link",
+      "position": "site engineer",
+     "startDate": "01-06-2018",
+      "endDate": "05-06-2022",
+      "summary": "A one-sentence to one-paragraph summary of this employer or position",
+      
+    }
+  ],
+  "education": [
+    {
+      "institution": "R.G matric School",
+      "area": "Pethapampatti",
+      "studyType": "Full Time",
+      "startDate": "10-02-2001",
+      "endDate": "10-05-2014",
+      "gpa": "8.8",
+      "courses": ["Auto cad","Full stack course" ]
+    }
+  ],
+ 
+ 
+  "skills": [
+    {
+      "name": " Programming Languages",
+      "level": "medium",
+      "keywords": [
+        ( 'Java', 'C++',java script,html,css)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil,Hindi ,english,Telungu",
+      "fluency": "Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": [
+        "Full stack course"
+      ]
+    }
+  ]
+}
